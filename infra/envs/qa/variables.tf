@@ -1,0 +1,1 @@
+# QA-specific variable defaults
